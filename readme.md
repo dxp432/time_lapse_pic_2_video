@@ -9,7 +9,7 @@
 
 3. 运行python文件，就会在“add_text”文件夹下得到添加了时间的图片，并在python所在的文件夹生成了视频。
 
-4. 视频演示如下：
+4. 视频演示如下：https://www.bilibili.com/video/BV1La4y1E7Kv/
 
 
 # 缺点
